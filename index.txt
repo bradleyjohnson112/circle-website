@@ -1,0 +1,29 @@
+CIRCLE - Instant Online Payment Processing 
+
+#---------- HEADER ----------#
+
+alt = CIRCLE logo
+CIRCLE
+
+Homepage
+About
+Payments
+Sell Online
+Blog
+
+aria-label = Toggle menu
+
+Sign In
+Sign Up
+
+#---------- HERO ----------#
+
+Instant Online Payment Processing For Your Business
+
+Circle is the easiest and most reliable way process payments online.
+
+Get started
+
+alt = hero banner
+attribution = <a href='https://pngtree.com/so/electronic'>electronic png from pngtree.com/</a>
+
